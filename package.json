@@ -1,0 +1,14 @@
+{
+  "name": "lab-1",
+  "version": "1.0.0",
+  "description": "Lab 1 for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ipz223_zdo@student.ztu.edu.ua",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
